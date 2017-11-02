@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EjerciciosClase</string>
+    <string name="javier_usero_zarco">Javier Usero Zarco</string>
+    <string name="_1_relative_layout">1. Relative Layout</string>
+    <string name="type_here">Type Here:</string>
+    <string name="_2_table_layout">2. Table Layout</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+</resources>
