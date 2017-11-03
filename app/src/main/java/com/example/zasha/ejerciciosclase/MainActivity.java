@@ -23,4 +23,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void mostrar_LinearLayout(View view) {
+        Intent intent = new Intent(this, LinearLayout.class);
+        startActivity(intent);
+    }
+
 }
