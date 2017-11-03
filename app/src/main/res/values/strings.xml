@@ -23,4 +23,13 @@
     <string name="_dividir">/</string>
     <string name="_multiplicar">x</string>
     <string name="_restar">-</string>
+    <string name="_5_ejercicio_de_constraint_layout">5. Ejercicio de Constraint Layout</string>
+    <string name="autor">Autor</string>
+    <string name="slime_quest_es_un_videojuego_tipo_metroidvania_creado_por_el_estudio_independiente_espa_ol_zsoft">Slime Quest es un videojuego tipo MetroidVania creado por el estudio independiente español, ZSoft.</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="requerimientos">Requerimientos</string>
+    <string name="pc_o_compatibles_con_2_gigas_de_ram_trajeta_gr_fica_ati_nvidia_630m_1_gb">PC o compatibles con 2 gigas de RAM. Trajeta gráfica ATI/Nvidia 630M 1 GB</string>
+    <string name="historia">Historia</string>
+    <string name="en_una_epoca_muy_lejana_una_joven_elfa_y_su_peque_o_slime_se_andentrar_n_en_un_mundo_subterraneo_donde_descubriran_un_oscura_plan_que_traera_el_caos_y_la_perdici_n_a_todos_los_reinos_del_mundo_una_aventura_donde_encontraras_enemigos_y_tambien_aliados_que_te_ayudar_n_en_tu_noble_misi_n">En una epoca muy lejana, una joven elfa y su pequeño slime se andentrarán en un mundo subterraneo donde descubriran un oscura plan que traera el caos y la perdición a todos los reinos del mundo. Una aventura donde encontraras enemigos y tambien aliados que te ayudarán en tu noble misión.</string>
+    <string name="so_windows_vista_7_8_o_10_procesador_1ghz_memoria_512_mb_de_ram_gr_ficos_128_mb_almacenamiento_100_mb_de_espacio_disponible">SO: Windows Vista, 7, 8 o 10. Procesador: 1GHz+ Memoria: 512 MB de RAM. Gráficos: 128 MB. Almacenamiento: 100 MB de espacio disponible.</string>
 </resources>

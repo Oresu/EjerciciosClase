@@ -33,4 +33,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void mostrar_ConstraintLayout(View view) {
+        Intent intent = new Intent(this, ConstraintLayout.class);
+        startActivity(intent);
+    }
+
 }
