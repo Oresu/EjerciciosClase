@@ -47,5 +47,13 @@
             android:layout_height="wrap_content"
             android:onClick="mostrar_LinearLayout"
             android:text="@string/_3_linear_layout" />
+
+        <Button
+            android:id="@+id/button13"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="mostrar_GridLayout"
+            android:text="@string/_4_grid_layout" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

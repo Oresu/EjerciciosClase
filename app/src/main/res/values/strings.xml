@@ -18,4 +18,9 @@
     <string name="_sumar">+</string>
     <string name="_igual">=</string>
     <string name="c">C</string>
+    <string name="_4_grid_layout">4. Grid Layout</string>
+    <string name="_punto">.</string>
+    <string name="_dividir">/</string>
+    <string name="_multiplicar">x</string>
+    <string name="_restar">-</string>
 </resources>

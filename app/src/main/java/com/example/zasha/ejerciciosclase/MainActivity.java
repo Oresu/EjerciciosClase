@@ -28,4 +28,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void mostrar_GridLayout(View view) {
+        Intent intent = new Intent(this, GridLayout.class);
+        startActivity(intent);
+    }
+
 }
