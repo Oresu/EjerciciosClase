@@ -38,4 +38,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void mostrar_Main3EnRaya(View view) {
+        Intent intent = new Intent(this, Main3EnRaya.class);
+        startActivity(intent);
+    }
+
 }

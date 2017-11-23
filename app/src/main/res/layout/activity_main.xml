@@ -63,5 +63,12 @@
             android:layout_height="wrap_content"
             android:onClick="mostrar_ConstraintLayout"
             android:text="@string/_5_ejercicio_de_constraint_layout" />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="mostrar_Main3EnRaya"
+            android:text="@string/_6_controles_personalizados_3_en_raya" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
